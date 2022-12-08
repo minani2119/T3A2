@@ -26,4 +26,4 @@
 ~
 
 ## Etapa 3. Diseño de la solucion 
-()
+(https://github.com/minani2119/T3A2/blob/main/t3a2.rar)
